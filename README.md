@@ -13,5 +13,6 @@ This is a simple calculator built using Python.
 - Day 2: Added user input
 - - Day 3: Added calculation logic using if-else
 Day 4: Added loop, error handling, history feature, and improved UI
+DAY 5: added real app feel and improve  user experience
 ## Author
 sri hari priya
