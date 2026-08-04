@@ -20,3 +20,6 @@ improved logic
 build advanced GUI calculator
 ## Author
 sri hari priya
+
+#TO-DO-LIST-APP
+DAY1: add basic task input and display 
