@@ -25,4 +25,5 @@ sri hari priya
 DAY1: add basic task input and display 
 DAY-2: add multiple tasks 
 Day 3: Added delete task feature with numbered list and validation
+Day 4: Added mark as completed feature with status indicator
 
