@@ -27,4 +27,5 @@ DAY-2: add multiple tasks
 Day 3: Added delete task feature with numbered list and validation
 Day 4: Added mark as completed feature with status indicator
 DAY 5: Save  tasks to file
+DAY 6: added loaded tasks from files on startups
 
