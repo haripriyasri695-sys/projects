@@ -15,7 +15,7 @@ This is a simple calculator built using Python.
 Day 4: Added loop, error handling, history feature, and improved UI
 DAY 5: added real app feel and improve  user experience
 DAY-6: added GUI
-DAY-7: added calculation history
+completed DAY-7: added calculation history
 improved logic
 build advanced GUI calculator
 ## Author
@@ -28,4 +28,5 @@ Day 3: Added delete task feature with numbered list and validation
 Day 4: Added mark as completed feature with status indicator
 DAY 5: Save  tasks to file
 DAY 6: added loaded tasks from files on startups
+Completed Day 7: Final To-Do App with all features (add, delete, mark complete, file handling)
 
