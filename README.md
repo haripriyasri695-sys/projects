@@ -30,3 +30,7 @@ DAY 5: Save  tasks to file
 DAY 6: added loaded tasks from files on startups
 Completed Day 7: Final To-Do App with all features (add, delete, mark complete, file handling)
 
+# password generator
+DAY 1: password generator setup
+
+
