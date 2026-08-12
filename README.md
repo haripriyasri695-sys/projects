@@ -32,5 +32,7 @@ Completed Day 7: Final To-Do App with all features (add, delete, mark complete, 
 
 # password generator
 DAY 1: password generator setup
+DAY2: Added random character selection
+
 
 
