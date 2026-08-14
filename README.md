@@ -34,5 +34,14 @@ Completed Day 7: Final To-Do App with all features (add, delete, mark complete, 
 DAY 1: password generator setup
 DAY2: Added random character selection
 
+## Features
+
+- Random password generation
+- User-defined password length
+- Letters, numbers, and symbols
+
+## Technologies Used
+
+- Python
 
 
